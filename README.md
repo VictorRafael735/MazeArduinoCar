@@ -11,10 +11,8 @@ Esta é uma aplicação acadêmica, de um robô labirinto desenvolvida para a pl
 * [Módulo Bluetooth HC05](https://components101.com/sites/default/files/component_datasheet/HC-05%20Datasheet.pdf)
 
 ## O que foi implementado
-* É possível ler e visualizar os dados recebidos do módulo bluetooth.
+* Controlador Fuzzy.
 
 ## O que falta implementar
 * Lógica de gerenciamento do estado da aplicação baseado na informação recebida pelo Aplicativo Android.
-* Lógica de operação dos motores baseado na leitura dos sensores ultrassônicos.
-* Algoritmo para tomada de decisões baseada na leitura dos sensores ultrassônicos.
 
